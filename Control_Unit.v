@@ -23,8 +23,11 @@ module Control_Unit(Op, RegWrite, ImmSrc, ALUSrc, MemWrite, ResultSrc, Branch, f
     );
     
     ALU_Decoder ALU_Decoder(
-
+            .ALUOp(ALUOp),
+            .funct3(funct3),
+            .funct7(funct7),
+            .op(Op),
+            .ALUControl(ALUControl)
     );
-
 
 endmodule

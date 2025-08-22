@@ -1,0 +1,13 @@
+"filename", "language", "Verilog", "comment", "blank", "total"
+"c:\Users\tphan\OneDrive\Desktop\Risc-v Processor\ALU.v", "Verilog", 28, 2, 8, 38
+"c:\Users\tphan\OneDrive\Desktop\Risc-v Processor\ALU_Decoder.v", "Verilog", 13, 1, 5, 19
+"c:\Users\tphan\OneDrive\Desktop\Risc-v Processor\Control_Unit.v", "Verilog", 22, 0, 8, 30
+"c:\Users\tphan\OneDrive\Desktop\Risc-v Processor\Data_Memory.v", "Verilog", 16, 1, 9, 26
+"c:\Users\tphan\OneDrive\Desktop\Risc-v Processor\Instruction_Memory.v", "Verilog", 11, 0, 6, 17
+"c:\Users\tphan\OneDrive\Desktop\Risc-v Processor\Main_Decoder.v", "Verilog", 0, 0, 1, 1
+"c:\Users\tphan\OneDrive\Desktop\Risc-v Processor\PC_Adder.v", "Verilog", 0, 0, 1, 1
+"c:\Users\tphan\OneDrive\Desktop\Risc-v Processor\ProgramCounter.v", "Verilog", 0, 0, 1, 1
+"c:\Users\tphan\OneDrive\Desktop\Risc-v Processor\Register.v", "Verilog", 18, 2, 7, 27
+"c:\Users\tphan\OneDrive\Desktop\Risc-v Processor\Single_Cycle_Top.v", "Verilog", 75, 0, 11, 86
+"c:\Users\tphan\OneDrive\Desktop\Risc-v Processor\Single_Cycle_Top_Tb.v", "Verilog", 24, 0, 7, 31
+"Total", "-", 207, 6, 64, 277

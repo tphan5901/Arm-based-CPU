@@ -6,7 +6,7 @@ module Register(A1,A2,A3,WD3,WE3,clk,rst,RD1,RD2);
 
     output [31:0]RD1, RD2;
 
-    //creation of memory
+    //Creation of memory
     reg [31:0] Registers [31:0];
 
     always @(posedge clk) 

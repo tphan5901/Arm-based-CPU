@@ -10,7 +10,7 @@
 module Single_Cycle_Top(clk, rst);
     
     input clk,rst;
-    wire [31:0] PC_Top,RD_Instr,RD1_Top, RD2_Top, Imm_Ext_Top, ALUResult, ReadData, PCPlus4, Result;
+    wire [31:0] PC_Top,RD_Instr,RD1_Top, RD2_Top, Imm_Ext_Top, ALUResult, SrcB, ReadData, PCPlus4, Result;
     wire RegWrite, MemWrite, ALUSrc, ResultSrc;
     wire [2:0]ALUControl_Top;
 
@@ -27,7 +27,7 @@ module Single_Cycle_Top(clk, rst);
         .c(PCPlus4)
     );
 
-    Instruction_memory Instruction_memory(
+    Instruction_Memory Instruction_Memory(
                     .rst(rst),
                     .A(PC_Top),
                     .RD()
@@ -52,7 +52,7 @@ module Single_Cycle_Top(clk, rst);
 
     ALU ALU(
         .A(RD1_Top),
-        .B(Imm_Ext_Top),
+        .B(SrcB),
         .Result(ALUResult),
         .ALUControl(ALUControl_Top),
         .Overflow(),

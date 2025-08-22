@@ -1,19 +1,19 @@
-Date : 2025-08-22 04:14:40
+Date : 2025-08-22 04:43:12
 Directory : c:\Users\tphan\OneDrive\Desktop\Risc-v Processor
-Total : 11 files,  223 codes, 3 comments, 63 blanks, all 289 lines
+Total : 11 files,  234 codes, 4 comments, 63 blanks, all 301 lines
 
 Languages
 +----------+------------+------------+------------+------------+------------+
 | language | files      | code       | comment    | blank      | total      |
 +----------+------------+------------+------------+------------+------------+
-| Verilog  |         11 |        223 |          3 |         63 |        289 |
+| Verilog  |         11 |        234 |          4 |         63 |        301 |
 +----------+------------+------------+------------+------------+------------+
 
 Directories
 +------------------------------------------------------------------------+------------+------------+------------+------------+------------+
 | path                                                                   | files      | code       | comment    | blank      | total      |
 +------------------------------------------------------------------------+------------+------------+------------+------------+------------+
-| .                                                                      |         11 |        223 |          3 |         63 |        289 |
+| .                                                                      |         11 |        234 |          4 |         63 |        301 |
 +------------------------------------------------------------------------+------------+------------+------------+------------+------------+
 
 Files
@@ -23,13 +23,13 @@ Files
 | c:\Users\tphan\OneDrive\Desktop\Risc-v Processor\ALU.v                 | Verilog  |         21 |          0 |          5 |         26 |
 | c:\Users\tphan\OneDrive\Desktop\Risc-v Processor\ALU_Decoder.v         | Verilog  |         14 |          0 |          4 |         18 |
 | c:\Users\tphan\OneDrive\Desktop\Risc-v Processor\Control_Unit.v        | Verilog  |         27 |          0 |          6 |         33 |
-| c:\Users\tphan\OneDrive\Desktop\Risc-v Processor\Data_Memory.v         | Verilog  |         16 |          1 |          9 |         26 |
+| c:\Users\tphan\OneDrive\Desktop\Risc-v Processor\Data_Memory.v         | Verilog  |         15 |          2 |          7 |         24 |
 | c:\Users\tphan\OneDrive\Desktop\Risc-v Processor\Instruction_Memory.v  | Verilog  |         11 |          0 |          6 |         17 |
 | c:\Users\tphan\OneDrive\Desktop\Risc-v Processor\Main_Decoder.v        | Verilog  |         12 |          0 |          4 |         16 |
 | c:\Users\tphan\OneDrive\Desktop\Risc-v Processor\PC_Adder.v            | Verilog  |          5 |          0 |          3 |          8 |
-| c:\Users\tphan\OneDrive\Desktop\Risc-v Processor\ProgramCounter.v      | Verilog  |          0 |          0 |          1 |          1 |
-| c:\Users\tphan\OneDrive\Desktop\Risc-v Processor\Register.v            | Verilog  |         18 |          2 |          7 |         27 |
+| c:\Users\tphan\OneDrive\Desktop\Risc-v Processor\ProgramCounter.v      | Verilog  |         13 |          0 |          3 |         16 |
+| c:\Users\tphan\OneDrive\Desktop\Risc-v Processor\Register.v            | Verilog  |         17 |          2 |          7 |         26 |
 | c:\Users\tphan\OneDrive\Desktop\Risc-v Processor\Single_Cycle_Top.v    | Verilog  |         75 |          0 |         11 |         86 |
 | c:\Users\tphan\OneDrive\Desktop\Risc-v Processor\Single_Cycle_Top_Tb.v | Verilog  |         24 |          0 |          7 |         31 |
-| Total                                                                  |          |        223 |          3 |         63 |        289 |
+| Total                                                                  |          |        234 |          4 |         63 |        301 |
 +------------------------------------------------------------------------+----------+------------+------------+------------+------------+

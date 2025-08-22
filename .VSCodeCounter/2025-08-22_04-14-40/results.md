@@ -1,21 +1,21 @@
 # Summary
 
-Date : 2025-08-22 02:07:58
+Date : 2025-08-22 04:14:40
 
 Directory c:\\Users\\tphan\\OneDrive\\Desktop\\Risc-v Processor
 
-Total : 11 files,  207 codes, 6 comments, 64 blanks, all 277 lines
+Total : 11 files,  223 codes, 3 comments, 63 blanks, all 289 lines
 
 Summary / [Details](details.md) / [Diff Summary](diff.md) / [Diff Details](diff-details.md)
 
 ## Languages
 | language | files | code | comment | blank | total |
 | :--- | ---: | ---: | ---: | ---: | ---: |
-| Verilog | 11 | 207 | 6 | 64 | 277 |
+| Verilog | 11 | 223 | 3 | 63 | 289 |
 
 ## Directories
 | path | files | code | comment | blank | total |
 | :--- | ---: | ---: | ---: | ---: | ---: |
-| . | 11 | 207 | 6 | 64 | 277 |
+| . | 11 | 223 | 3 | 63 | 289 |
 
 Summary / [Details](details.md) / [Diff Summary](diff.md) / [Diff Details](diff-details.md)

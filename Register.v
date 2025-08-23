@@ -20,7 +20,8 @@ module Register(A1,A2,A3,WD3,WE3,clk,rst,RD1,RD2);
     assign RD2 = (!rst) ? 32'd0 : Registers[A2];
 
     initial begin
-        Register[9] = 32'h00000020;
+        Registers[9] = 32'h00000020;
     end
+
 
 endmodule
